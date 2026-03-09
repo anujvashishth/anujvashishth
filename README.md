@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=Anuj%20Vashishth&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anuj Vashishth</h1>
-<h3 align="center">🚀 Passionate Backend Developer from India</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anuj+Vashishth;🚀+Passionate+Backend+Developer+from+India" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
